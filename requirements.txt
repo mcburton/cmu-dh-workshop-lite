@@ -46,4 +46,4 @@ plotly>=5,<6
 bqplot
 
 # Data science packages
-pandas
+#pandas
